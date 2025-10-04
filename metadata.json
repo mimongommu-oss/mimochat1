@@ -1,0 +1,7 @@
+{
+  "name": "Signal Clone - AI Chat",
+  "description": "A beautiful, mobile-first web chat application inspired by Signal, powered by the Gemini API to provide intelligent and conversational responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
